@@ -271,7 +271,6 @@
 
 
 
-
 .welcome-section-letters h1 {
     margin-top: 50px;
     margin-bottom: 20px;
@@ -452,7 +451,7 @@ hr.white-line {
 }
 body {
  background-image: url("../content/background_coding.jpg");
-
+ 
 }
 h1 {
     text-align: center;
