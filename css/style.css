@@ -451,7 +451,7 @@ hr.white-line {
 }
 body {
  background-image: url("../content/background_coding.jpg");
- 
+
 }
 h1 {
     text-align: center;
@@ -1047,6 +1047,9 @@ button#skill-button:hover {
 #stadio {
     background-image: url('../content/Natural_products2.png');
 }
+#berry{
+    background-image: url('../content/dessert_berry.png');
+}
 
 /*********** FADE IN EFFECT ON PORTFOLIO IMAGES ***********/
 
@@ -1222,7 +1225,7 @@ p.click-for-more {
 
 
 #contact-section {
-  background-color: rgb(51, 51, 51)
+  background-color: rgb(51, 51, 51);
 }
 
 .contact-section {
