@@ -1393,10 +1393,10 @@ footer {
 }
 footer p {
     font-family: 'Muli', sans-serif;
-    font-weight: 20px;
+    font-weight: bold;
     color: rgb(240, 88, 89);
     text-align: center;
-    font-size: 13px;
+    font-size: 14px;
 }
 p .note-on-coding {
     color: rgb(128, 128, 128);
