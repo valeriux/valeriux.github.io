@@ -451,8 +451,8 @@ hr.white-line {
 }
 body {
  background-image: url("../content/background_coding.jpg");
-
-
+ background-attachment: fixed;
+ background-size: cover;
 }
 h1 {
     text-align: center;
@@ -631,7 +631,9 @@ nav ul li:first-child {
 /*trace logo intro*/
 
 .welcome-section {
-    height: 750px;
+    /*height: 750px;*/
+    min-height: 100vh;
+
 }
 
 .black-line #line-2 {
